@@ -1,0 +1,40 @@
+body {
+    text-align: center;
+    margin: 0em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+nav { background-color:bisque;
+    padding: 1rem;
+    margin-bottom: 4rem;
+
+}
+
+header img {width: 12rem;
+    margin: 1rem;
+
+}
+
+#secondo {
+    color: black;
+    font-weight: bold;
+}
+h1 { text-align: center;
+    margin-bottom: 2rem;
+}
+
+#pfirst {
+    text-align:left;
+}
+main {
+    width: 50%;
+    text-align: left;
+    margin: auto;
+  }
+
+  main img {
+    width: 100%;
+  }
+
+span {color: red;
+display: block;}
